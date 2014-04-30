@@ -4,40 +4,12 @@
 body{
 	margin:0 auto;
     font-family: 'Source Sans Pro', sans-serif;
+    background-color: #F5F5F5;
+    padding-left: 5px;
+	padding-right: 5px;
 }
 
-header img{
-	padding: 15px;
-}
-
-nav{
-	background-color: #3e698c;
-}
-
-nav a{
-	color:white;
-	text-decoration: none;
-}
-
-nav > ul{
-	padding: 0%;
-}
-
-nav > ul > li{
-	list-style-type: none;
-	display: inline-block;
-	border-right: 1px solid #333436;
-	padding-top: 10px;
-	padding-bottom: 10px;
-	color: white;
-	text-align: center;
-	width: 19.6%;
-}
-
-#container > nav > ul > li:nth-child(5){
-	border:none;
-}
-
+/* ===================  Header Section  ==================================== */
 .headPhone{
 	float: right;
 	margin-top: -12px;
@@ -72,6 +44,41 @@ nav > ul > li{
 .accountLinks > li > a{
 	text-decoration: none;
 }
+header img{
+	padding: 15px;
+}
+
+/* ===================  Nav Section  ==================================== */
+
+nav{
+	background-color: #3e698c;
+}
+
+nav a{
+	color:white;
+	text-decoration: none;
+}
+
+nav > ul{
+	padding: 0%;
+}
+
+nav > ul > li{
+	list-style-type: none;
+	display: inline-block;
+	border-right: 1px solid #333436;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: white;
+	text-align: center;
+	width: 19.6%;
+}
+
+#container > nav > ul > li:nth-child(5){
+	border:none;
+}
+
+/* ===================  General Section  ==================================== */
 
 .bold{
 	font-weight: bold;
@@ -82,6 +89,4 @@ nav > ul > li{
 	min-width: 900px;
     max-width: 1000px;
     margin: 0 auto;
-    padding-left: 5px;
-    padding-right: 5px;
 }	
