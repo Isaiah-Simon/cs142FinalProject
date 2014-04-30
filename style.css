@@ -1,0 +1,87 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro);
+
+/* ===================  Body Section  ==================================== */
+body{
+	margin:0 auto;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+header img{
+	padding: 15px;
+}
+
+nav{
+	background-color: #3e698c;
+}
+
+nav a{
+	color:white;
+	text-decoration: none;
+}
+
+nav > ul{
+	padding: 0%;
+}
+
+nav > ul > li{
+	list-style-type: none;
+	display: inline-block;
+	border-right: 1px solid #333436;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: white;
+	text-align: center;
+	width: 19.6%;
+}
+
+#container > nav > ul > li:nth-child(5){
+	border:none;
+}
+
+.headPhone{
+	float: right;
+	margin-top: -12px;
+	margin-right: 142px;
+}
+
+.headEmail{
+	float: right;
+	padding-right: 40px;
+}
+
+.accountLinks{
+	float:right;
+	margin-top: -100px;
+}
+
+.accountLinks > li{
+	display: inline-block;
+	font-size: 10pt;
+	padding-right: 19px;
+}
+
+.accountLinks > li:nth-child(1){
+	border-right: 1px solid black;
+	padding-right: 16px;
+}
+
+.accountLinks > li:nth-child(2){
+	padding-left: 10px;
+}
+
+.accountLinks > li > a{
+	text-decoration: none;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+#container{
+	background-color: white;
+	min-width: 900px;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding-left: 5px;
+    padding-right: 5px;
+}	
