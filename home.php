@@ -18,6 +18,7 @@
 				</aside>
 
 				<section class="mainContent">
+					<!--
 					<script type="text/javascript" src="jquery.js"></script>
 					<script type="text/javascript" src="jquery.bxslider/jquery.bxslider.js"></script>
 					<script>
@@ -32,9 +33,10 @@
 					</script>
 
 					<div class="slider1">
-					  <div class="slide"><img src="images/carousel/ElectronicArtsLogoCarousel.jpg" alt="Electronic Arts Carousel Logo"></div>
+					  <div class="slide"<a href="electronicarts.com"><img src="images/carousel/ElectronicArtsLogoCarousel.jpg" alt="Electronic Arts Carousel Logo"></a></div>
 					  <div class="slide"><img src="images/carousel/gamingComputerCarousel.jpg" alt="Gaming Computer Carousel Logo"></div>
 					</div>
+				-->
 
 					<section class="hotDeals">
 						<table>
