@@ -73,10 +73,10 @@ nav > ul > li{
 	padding-bottom: 10px;
 	color: white;
 	text-align: center;
-	width: 19.6%;
+	width: 24.65%;
 }
 
-#container > nav > ul > li:nth-child(5){
+#container > nav > ul > li:nth-child(4){
 	border:none;
 }
 
@@ -88,8 +88,7 @@ nav > ul > li{
 
 #container{
 	background-color: white;
-	min-width: 900px;
-    max-width: 1000px;
+	width: 1000px;
     margin: 0 auto;
 }
 
@@ -98,7 +97,7 @@ nav > ul > li{
 }
 
 #main #content{
-	height: 1000px;
+	height: 875px;
 }	
 
 /* ===================  Local Nav Section  ==================================== */
@@ -133,6 +132,11 @@ nav > ul > li{
 	background-image: -ms-linear-gradient(bottom, #F5F5F5 49%, #FFFFFF 100%, #CCCCCC 100%);
 	background-image: linear-gradient(to bottom, #F5F5F5 49%, #FFFFFF 100%, #CCCCCC 100%);
 
+}
+
+#localNav > ul > li > a{
+	text-decoration: none;
+	color: black;
 }
 
 #localNav > ul > li:nth-child(1){
@@ -217,4 +221,20 @@ nav > ul > li{
 	border-bottom: 1px solid black;
 	width: 33%;
 	padding: 10px;
+}
+
+/* ===================  Featured Item Section  ==================================== */
+
+.featuredItem > a > img{
+	margin-left: 50px
+}
+
+.featuredItem > h1{
+	font-size: 30pt;
+	margin: 0;
+}
+
+.featuredItem > h3{
+	margin: 0;
+	margin-bottom: 20px;
 }
