@@ -11,6 +11,7 @@
 <![endif]-->
 <link href='http://fonts.googleapis.com/css?family=Share+Tech+Mono' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="style.css" type="text/css" media="screen">
+<link rel="stylesheet" type="text/css" href="slick/slick/slick.css"/>
 
 
 </head>
