@@ -73,10 +73,10 @@ nav > ul > li{
 	padding-bottom: 10px;
 	color: white;
 	text-align: center;
-	width: 19.6%;
+	width: 24.65%;
 }
 
-#container > nav > ul > li:nth-child(5){
+#container > nav > ul > li:nth-child(4){
 	border:none;
 }
 
@@ -88,8 +88,7 @@ nav > ul > li{
 
 #container{
 	background-color: white;
-	min-width: 900px;
-    max-width: 1000px;
+	width: 1000px;
     margin: 0 auto;
 }
 
@@ -98,7 +97,7 @@ nav > ul > li{
 }
 
 #main #content{
-	height: 1000px;
+	height: 875px;
 }	
 
 /* ===================  Local Nav Section  ==================================== */
@@ -135,21 +134,27 @@ nav > ul > li{
 
 }
 
+#localNav > ul > li > a{
+	text-decoration: none;
+	color: black;
+}
+
 #localNav > ul > li:nth-child(1){
 	border-top: none;
 }
 
-/* ===================  LCarousel Section  ==================================== */
-.carousel{
+/* ===================  Main Content Section  ==================================== */
+.mainContent{
 	float: right;
 	margin-top: -350px;
 	margin-right: 50px;
 }
 
-.carousel table{
+.mainContent table{
 	margin-top: 20px;
 	width: 700px;
 	border-collapse:collapse;
+<<<<<<< HEAD
 }
 
 .carousel > img{
@@ -199,6 +204,57 @@ nav > ul > li{
 	margin-top: -23px;
 }
 
+=======
+}
+
+.mainContent > img{
+	margin-left: 45px;
+}
+
+#content > section > section > table > tbody > tr > td > img{
+	margin-left: 20px;
+}
+
+.description{
+	font-size: 10pt;
+	margin: 0 auto;
+	margin-left: 10px;
+	margin-bottom: 20px;
+	margin-top: 10px;
+}
+
+.newPrice{
+	font-size: 20pt;
+	margin: 0 auto;
+	margin-left: 10px;
+	margin-bottom: 20px;
+	margin-top: 10px;
+}
+
+.newPrice > a{
+	color:#3e698c;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.oldPrice{
+	font-size: 11pt;
+	margin: 0 auto;
+	color: gray;
+	margin-bottom: -15px;
+	margin-left: 12px;
+	text-decoration: line-through;
+}
+
+.savedPercent{
+	font-size: 9pt;
+	margin: 0 auto;
+	color: #C1240B;
+	margin-left: 12px;
+	margin-top: -23px;
+}
+
+>>>>>>> origin/carousel
 
 #content > section > section > table > thead > tr > th.center{
 	font-size: 30pt;
@@ -217,4 +273,23 @@ nav > ul > li{
 	border-bottom: 1px solid black;
 	width: 33%;
 	padding: 10px;
+<<<<<<< HEAD
+=======
+}
+
+/* ===================  Featured Item Section  ==================================== */
+
+.featuredItem > a > img{
+	margin-left: 50px
+}
+
+.featuredItem > h1{
+	font-size: 30pt;
+	margin: 0;
+}
+
+.featuredItem > h3{
+	margin: 0;
+	margin-bottom: 20px;
+>>>>>>> origin/carousel
 }
