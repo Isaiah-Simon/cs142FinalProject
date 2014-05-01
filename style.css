@@ -143,16 +143,78 @@ nav > ul > li{
 .carousel{
 	float: right;
 	margin-top: -350px;
-	margin-right: 110px;
+	margin-right: 50px;
 }
 
 .carousel table{
 	margin-top: 20px;
-	border:1px solid black;
-	width: 100%;
+	width: 700px;
+	border-collapse:collapse;
 }
 
-td{
-	border: 1px solid black;
+.carousel > img{
+	margin-left: 45px;
+}
+
+#content > section > section > table > tbody > tr > td > img{
+	margin-left: 20px;
+}
+
+.description{
+	font-size: 10pt;
+	margin: 0 auto;
+	margin-left: 10px;
+	margin-bottom: 20px;
+	margin-top: 10px;
+}
+
+.newPrice{
+	font-size: 20pt;
+	margin: 0 auto;
+	margin-left: 10px;
+	margin-bottom: 20px;
+	margin-top: 10px;
+}
+
+.newPrice > a{
+	color:#3e698c;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.oldPrice{
+	font-size: 11pt;
+	margin: 0 auto;
+	color: gray;
+	margin-bottom: -15px;
+	margin-left: 12px;
+	text-decoration: line-through;
+}
+
+.savedPercent{
+	font-size: 9pt;
+	margin: 0 auto;
+	color: #C1240B;
+	margin-left: 12px;
+	margin-top: -23px;
+}
+
+
+#content > section > section > table > thead > tr > th.center{
+	font-size: 30pt;
+	background-image: -o-linear-gradient(bottom, #D1D1D1 0%, #7D7D7D 100%);
+	background-image: -moz-linear-gradient(bottom, #D1D1D1 0%, #7D7D7D 100%);
+	background-image: -webkit-linear-gradient(bottom, #D1D1D1 0%, #7D7D7D 100%);
+	background-image: -ms-linear-gradient(bottom, #D1D1D1 0%, #7D7D7D 100%);
+	background-image: linear-gradient(to bottom, #D1D1D1 0%, #7D7D7D 100%);
+
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+
+#content > section > section > table > tbody > tr > td{
+	border-bottom: 1px solid black;
 	width: 33%;
+	padding: 10px;
 }
