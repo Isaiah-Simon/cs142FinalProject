@@ -17,19 +17,24 @@
 					</ul>
 				</aside>
 
-				<section class="carousel">
-					<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-					<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-					<script type="text/javascript" src="slick/slick/slick.min.js"></script>
-
-					<script type="text/javascript">$(document).ready(function(){
-													$('.carousel').slick({
-													  setting-name: setting-value
-													});
-												});
+				<section class="mainContent">
+					<script type="text/javascript" src="jquery.js"></script>
+					<script type="text/javascript" src="jquery.bxslider/jquery.bxslider.js"></script>
+					<script>
+						$(document).ready(function(){
+						  $('.slider1').bxSlider({
+						    slideWidth: 600,
+						    minSlides: 1,
+						    maxSlides: 1,
+						    slideMargin: 10
+						  });
+						});
 					</script>
 
-					<img src="images/carousel/ElectronicArtsLogoCarousel.jpg" alt="Electronic Arts Carousel Logo">
+					<div class="slider1">
+					  <div class="slide"><img src="images/carousel/ElectronicArtsLogoCarousel.jpg" alt="Electronic Arts Carousel Logo"></div>
+					  <div class="slide"><img src="images/carousel/gamingComputerCarousel.jpg" alt="Gaming Computer Carousel Logo"></div>
+					</div>
 
 					<section class="hotDeals">
 						<table>
