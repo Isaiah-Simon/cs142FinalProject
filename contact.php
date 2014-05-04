@@ -129,7 +129,7 @@ if (isset($_POST["butSubmit"])){
         $subject = "Your Message Has been Recieved: " . $firstName . " " . $lastName . " " . $todaysDate ;
 
         // be sure to change Your Site and yoursite to something meaningful
-        $mailFrom = "Quick Computing Support <contact@quickcomputing.com>";
+        $mailFrom = "Quick Computing Contact <contact@quickcomputing.com>";
 
         $cc = "";  // if you needed to Carbon Copy someone (person who fills out form will see this) ex:
                    // $cc = "webmaster@yoursite.com";
