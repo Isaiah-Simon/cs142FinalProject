@@ -565,3 +565,89 @@ padding-left: 5px;
 	background:-moz-linear-gradient( center top, #3e698c 5%, #3e698c 100% );
 	background-color:#3e698c;
 }
+
+
+/* ===================  Contact Us Section  ==================================== */
+.labelNote{
+	font-size: 10pt;
+	margin-left: 10px;
+}
+
+#contactUs .mainContent{
+	float: none;
+	padding: 0px 50px;
+	margin: 0;
+}
+
+#contactUs h1{
+	font-size: 30pt;
+	margin: 0;
+	text-align: center;
+	margin-top: -15px;
+	border-bottom: 1px solid black;
+	margin-bottom: 30px;
+}
+
+#contactUs fieldset{
+	border:none;
+	border-top: 1px solid lightgray;
+}
+
+#frmRegister > fieldset:nth-child(2){
+	border-top: none;
+
+}
+
+#frmRegister{
+	width: 56%;
+	margin: 0 auto;
+}
+
+#contactUs .button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #97c4fe;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #97c4fe;
+	box-shadow:inset 0px 1px 0px 0px #97c4fe;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #3e698c), color-stop(1, #3e698c) );
+	background:-moz-linear-gradient( center top, #3e698c 5%, #3e698c 100% );
+	background-color:#3e698c;
+	-webkit-border-top-left-radius:10px;
+	-moz-border-radius-topleft:10px;
+	border-top-left-radius:10px;
+	-webkit-border-top-right-radius:10px;
+	-moz-border-radius-topright:10px;
+	border-top-right-radius:10px;
+	-webkit-border-bottom-right-radius:10px;
+	-moz-border-radius-bottomright:10px;
+	border-bottom-right-radius:10px;
+	-webkit-border-bottom-left-radius:10px;
+	-moz-border-radius-bottomleft:10px;
+	border-bottom-left-radius:10px;
+	text-indent:0;
+	border:1px solid #00275e;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+	height:45px;
+	line-height:45px;
+	width:150px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #1570cd;
+}
+#contactUs .button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #3e698c), color-stop(1, #3e698c) );
+	background:-moz-linear-gradient( center top, #3e698c 5%, #3e698c 100% );
+	background-color:#3e698c;
+}
+
+.mistake{
+	border:1px solid red;
+    box-shadow: 0 0 10px #719ECE;
+}
+
+input{
+	height: 20px;
+}
