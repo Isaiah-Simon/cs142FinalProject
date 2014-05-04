@@ -100,6 +100,10 @@ nav > ul > li{
 	height: 875px;
 }	
 
+#products #content{
+	height: 1000px;
+}
+
 /* ===================  Local Nav Section  ==================================== */
 #localNav{
 	position: relative;
@@ -226,7 +230,7 @@ nav > ul > li{
 
 /* ===================  Featured Item Section  ==================================== */
 
-.featuredItem > a > img{
+.featuredItem  a  img{
 	margin-left: 50px
 }
 
@@ -239,4 +243,32 @@ nav > ul > li{
 .featuredItem > h3{
 	margin: 0;
 	margin-bottom: 20px;
+}
+
+#products .featuredItem > h1{
+	text-align: center;
+	border-bottom: 1px solid black;
+}
+
+#content > section > section.featuredItem > section > h2{
+	margin: 0;
+	font-size: 20pt;
+	margin-top: 10px;
+	margin-bottom: -25px;
+}
+
+#content > section > section.featuredItem > section > h2 > a{
+	margin: 0;
+	font-size: 20pt;
+	color:#3e698c;
+	text-decoration: none;
+}
+
+#content > section > section.featuredItem > section{
+	border-bottom: 1px solid black;
+	margin-bottom: 15px;
+}
+
+.featuredItem > section  a  img{
+	margin-bottom: 15px;
 }
