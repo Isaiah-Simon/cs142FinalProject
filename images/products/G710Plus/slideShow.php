@@ -15,19 +15,13 @@
 	<!-- Start WOWSlider.com BODY section -->
 	<div id="wowslider-container1">
 	<div class="ws_images"><ul>
-<li><img src="data1/images/front.jpg" alt="Front" title="Front" id="wows1_0"/></li>
-<li><img src="data1/images/backimage.jpg" alt="Back" title="Back" id="wows1_1"/></li>
-<li><img src="data1/images/sideimageleft.jpg" alt="sideImageLeft" title="sideImageLeft" id="wows1_2"/></li>
-<li><img src="data1/images/sideimageright.jpg" alt="sideImageRight" title="sideImageRight" id="wows1_3"/></li>
-<li><img src="data1/images/functionkeys.jpg" alt="Function Keys" title="Function Keys" id="wows1_4"/></li>
+<li><img src="data1/images/front.jpg" alt="front" title="front" id="wows1_0"/></li>
+<li><img src="data1/images/sideimageright.jpg" alt="sideImageRight" title="sideImageRight" id="wows1_1"/></li>
 </ul></div>
 <div class="ws_thumbs">
 <div>
-<a href="#wows1_0" title="Front"><img src="data1/tooltips/front.jpg" alt="" /></a>
-<a href="#wows1_1" title="Back"><img src="data1/tooltips/backimage.jpg" alt="" /></a>
-<a href="#wows1_2" title="sideImageLeft"><img src="data1/tooltips/sideimageleft.jpg" alt="" /></a>
-<a href="#wows1_3" title="sideImageRight"><img src="data1/tooltips/sideimageright.jpg" alt="" /></a>
-<a href="#wows1_4" title="Function Keys"><img src="data1/tooltips/functionkeys.jpg" alt="" /></a>
+<a href="#wows1_0" title="front"><img src="data1/tooltips/front.jpg" alt="" /></a>
+<a href="#wows1_1" title="sideImageRight"><img src="data1/tooltips/sideimageright.jpg" alt="" /></a>
 </div>
 </div>
 <span class="wsl"><a href="http://wowslider.com">jquery slider</a> by WOWSlider.com v5.4</span>
