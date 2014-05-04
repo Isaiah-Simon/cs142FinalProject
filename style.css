@@ -96,9 +96,25 @@ nav > ul > li{
 	text-align: center;
 }
 
+#breadCrumbs{
+	margin: 0;
+	margin-top: -30px;
+}
+
+#breadCrumbs a{
+	color: #3e698c;
+}
+
+
 #main #content{
 	height: 875px;
 }	
+
+#products #content{
+	height: 3100px;
+}
+
+
 
 /* ===================  Local Nav Section  ==================================== */
 #localNav{
@@ -148,6 +164,12 @@ nav > ul > li{
 	float: right;
 	margin-top: -350px;
 	margin-right: 50px;
+}
+
+#products .mainContent{
+	float: right;
+	margin-top: -350px;
+	margin-right: 30px;
 }
 
 .mainContent table{
@@ -220,13 +242,12 @@ nav > ul > li{
 
 #content > section > section > table > tbody > tr > td{
 	border-bottom: 1px solid black;
-	width: 33%;
 	padding: 10px;
 }
 
 /* ===================  Featured Item Section  ==================================== */
 
-.featuredItem > a > img{
+.featuredItem  a  img{
 	margin-left: 50px
 }
 
@@ -239,4 +260,36 @@ nav > ul > li{
 .featuredItem > h3{
 	margin: 0;
 	margin-bottom: 20px;
+}
+
+#products .featuredItem > h1{
+	text-align: center;
+	border-bottom: 1px solid black;
+}
+
+#content > section > section.featuredItem > section > h2{
+	margin: 0;
+	font-size: 20pt;
+	margin-top: 10px;
+	margin-bottom: -25px;
+}
+
+#content > section > section.featuredItem > section > h2 > a{
+	margin: 0;
+	font-size: 20pt;
+	color:#3e698c;
+	text-decoration: none;
+}
+
+#content > section > section.featuredItem > section{
+	border-bottom: 1px solid black;
+	margin-bottom: 15px;
+}
+
+.featuredItem > section  a  img{
+	margin-bottom: 15px;
+}
+
+#content > section > section.featuredItem > section:nth-child(8){
+	border:none;
 }
