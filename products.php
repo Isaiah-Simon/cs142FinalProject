@@ -141,22 +141,6 @@
 								<img src="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/images/carousel/motherboardCarousel.jpg" alt="GIGABYTE GA-Z87X-UD3H LGA 1150 Intel Motherboard">
 							</a>
 						</section>
-
-
-					</section>
-
-					<section class="productsTable">
-						<table>
-					        <thead>
-					        </thead>
-
-					        <tbody>
-					            <tr>
-					                <td>
-					                </td>
-					            </tr>
-					        <tbody>
-					    </table>
 					</section>
 				</section>
 			</section>
