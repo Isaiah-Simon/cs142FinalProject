@@ -62,11 +62,19 @@ if (isset($_POST["butSubmit"])){
       * ex: $to = $_CLEAN['GET']['txtEmail'];
       * or: $to = $_CLEAN['POST']['txtEmail'];
       */
+<<<<<<< HEAD
 	  
 	   //check for errors
      include ("validation_functions.php");
      $errorMsg=array();
 	 
+=======
+
+	   //check for errors
+     include ("validation_functions.php");
+     $errorMsg=array();
+
+>>>>>>> origin/ROCCAT
 	 //%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%
 // begin processing form data    
     if(!$errorMsg){    
@@ -101,7 +109,11 @@ if (isset($_POST["butSubmit"])){
             $lastNameERROR = true;
         }
      }
+<<<<<<< HEAD
 	 
+=======
+
+>>>>>>> origin/ROCCAT
 	 $email=$_CLEAN['POST']['txtEmail'];
      if(empty($email)){
         $errorMsg[]="Please enter a valid Email address";
@@ -113,7 +125,11 @@ if (isset($_POST["butSubmit"])){
             $emailERROR = true;
         }
      }
+<<<<<<< HEAD
 	 
+=======
+
+>>>>>>> origin/ROCCAT
 	 $phone=$_CLEAN['POST']['usrTel'];
      if(empty($phone)){
         $errorMsg[]="Please enter a valid phone number.";
@@ -125,7 +141,11 @@ if (isset($_POST["butSubmit"])){
             $phoneERROR = true;
         }
      }
+<<<<<<< HEAD
 	 
+=======
+
+>>>>>>> origin/ROCCAT
 	 //sets radio button value for items to create sticky form
 	if(isset($_CLEAN['POST']["rbDevice"])){
             $device = $_POST["rbDevice"];
@@ -141,11 +161,19 @@ if (isset($_POST["butSubmit"])){
     if(isset($_CLEAN['POST']["chkIssueHardware"])){
             $hardware = true;
     }
+<<<<<<< HEAD
 	 
 	if(isset($_CLEAN['POST']["chkIssueSecurity"])){
             $security = true;
     }
 	
+=======
+
+	if(isset($_CLEAN['POST']["chkIssueSecurity"])){
+            $security = true;
+    }
+
+>>>>>>> origin/ROCCAT
 	if(isset($_CLEAN['POST']["chkIssueNetwork"])){
             $network = true;
     }
@@ -154,7 +182,11 @@ if (isset($_POST["butSubmit"])){
 	if(isset($_CLEAN['POST']["lstPriority"])){
             $priority = $_CLEAN['POST']["lstPriority"];
     }
+<<<<<<< HEAD
 	
+=======
+
+>>>>>>> origin/ROCCAT
 	if(isset($_CLEAN['POST']["lstOS"])){
             $OS = $_CLEAN['POST']["lstOS"];
     }
@@ -163,11 +195,19 @@ if (isset($_POST["butSubmit"])){
 	if(isset($_CLEAN['POST']["txtDescription"])){
 				$description = $_POST["txtDescription"];
 		}
+<<<<<<< HEAD
 		
 	// test email for empty and valid format
     // 
 
 	
+=======
+
+	// test email for empty and valid format
+    // 
+
+
+>>>>>>> origin/ROCCAT
 	//%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%^%
     // our form data is valid so we can mail it
     if(!$errorMsg){    
@@ -228,7 +268,11 @@ if (isset($_POST["butSubmit"])){
         if(!empty($_CLEAN['POST']['txtEmail'])) { 
              $blnMail=mail($to, $subject, $mailMessage, $headers);
 		}
+<<<<<<< HEAD
 		
+=======
+
+>>>>>>> origin/ROCCAT
 	}
 }
 ?>
@@ -253,7 +297,11 @@ if (isset($_POST["butSubmit"])){
 			if (!$blnMail) {
 				echo "not ";
 			}
+<<<<<<< HEAD
 			
+=======
+
+>>>>>>> origin/ROCCAT
 			echo "been processed</h2>";
 
 			print "<p class='centered'>A copy of this message has ";
@@ -371,4 +419,8 @@ if (isset($_POST["butSubmit"])){
 
 <?php } //ends form submitted ok ?>
 </body>
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> origin/ROCCAT
