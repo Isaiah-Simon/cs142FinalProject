@@ -58,7 +58,7 @@
 						<table>
 					        <thead>
 					            <tr>
-					                <th class="center" colspan="3"><img src="images/hotDeals/flameIcon.png" alt="Hot deals flame icon">Hot Deals<img src="images/hotDeals/flameIcon.png"></th>
+					                <th class="center" colspan="3"><img src="images/hotDeals/flameIcon.png" alt="Hot deals flame icon">Hot Deals<img src="images/hotDeals/flameIcon.png"  alt="Hot deals flame icon"></th>
 					                <th></th>
 					                <th></th>
 					            </tr>
@@ -68,7 +68,7 @@
 					            <tr>
 					                <td>
 					                	<p class="oldPrice">$249.99</p>
-					                	<p class="newPrice"><a href="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/SAMSUNG840ProSeries256GBSSD.php">$189.99</p></a>
+					                	<p class="newPrice"><a href="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/SAMSUNG840ProSeries256GBSSD.php">$189.99</a>
 					                	<p class="savedPercent">Save 24%</p>
 					                	<a href="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/SAMSUNG840ProSeries256GBSSD.php">
 					                		<img src="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/images/hotDeals/hardDriveDeal.jpg" alt="Hard drive deal">
@@ -77,7 +77,7 @@
 					                </td>
 					                <td>
 					                	<p class="oldPrice">$164.99</p>
-					                	<p class="newPrice"><a href="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/GIGABYTEGA-Z87X-UD3H.php">$139.99</p></a>
+					                	<p class="newPrice"><a href="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/GIGABYTEGA-Z87X-UD3H.php">$139.99</a>
 					                	<p class="savedPercent">Save 15%</p>
 					                	<a  href="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/GIGABYTEGA-Z87X-UD3H.php">
 					                		<img src="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/images/hotDeals/motherboardDeal.jpg" alt="Motherboard deal">
@@ -85,7 +85,7 @@
 					                	<p class="description">GIGABYTE GA-Z87X-UD3H LGA 1150 Intel Z87 HDMI SATA 6Gb/s USB 3.0 ATX Intel Motherboard with UEFI BIOS</p>
 					                <td>
 					                	<p class="oldPrice">$219.99</p>
-					                	<p class="newPrice"><a href="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/HP24WDBlack.php">$149.99</p></a>
+					                	<p class="newPrice"><a href="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/HP24WDBlack.php">$149.99</a>
 					                	<p class="savedPercent">Save 32%</p>
 					                	<a href="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/HP24WDBlack.php">
 					                		<img src="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/images/hotDeals/monitorDeal.jpg" alt="Monitor deal">
