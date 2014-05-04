@@ -8,9 +8,6 @@
 				<? include ("localNav.php"); ?>
 
 				<section class="mainContent">
-					<section id="breadCrumbs">
-						<p><a href="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/products.php">Products</a></p>
-					</section>
 
 					<section class="featuredItem">
 						<h1>Products</h1>
