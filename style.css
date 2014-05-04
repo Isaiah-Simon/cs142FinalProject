@@ -96,6 +96,16 @@ nav > ul > li{
 	text-align: center;
 }
 
+#breadCrumbs{
+	margin: 0;
+	margin-top: -30px;
+}
+
+#breadCrumbs a{
+	color: #3e698c;
+}
+
+
 #main #content{
 	height: 875px;
 }	
@@ -103,6 +113,8 @@ nav > ul > li{
 #products #content{
 	height: 1000px;
 }
+
+
 
 /* ===================  Local Nav Section  ==================================== */
 #localNav{
