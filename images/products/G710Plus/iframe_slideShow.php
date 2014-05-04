@@ -1,3 +1,3 @@
 <!-- Start WOWSlider.com -->
-<iframe src="slideShow.php" style="width:1057px;height:360px;max-width:100%;overflow:hidden;border:none;padding:0;margin:0 auto;display:block;" marginheight="0" marginwidth="0"></iframe>
+<iframe src="slideShow.php" style="width:737px;height:360px;max-width:100%;overflow:hidden;border:none;padding:0;margin:0 auto;display:block;" marginheight="0" marginwidth="0"></iframe>
 <!-- End WOWSlider.com -->
