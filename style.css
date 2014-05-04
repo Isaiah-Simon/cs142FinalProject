@@ -288,6 +288,7 @@ nav > ul > li{
 
 .featuredItem > section  a  img{
 	margin-bottom: 15px;
+	margin-left: 65px;
 }
 
 #content > section > section.featuredItem > section:nth-child(8){
