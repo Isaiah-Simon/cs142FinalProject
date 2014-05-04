@@ -74,13 +74,13 @@
 					                	</a>
 					                	<p class="description">GIGABYTE GA-Z87X-UD3H LGA 1150 Intel Z87 HDMI SATA 6Gb/s USB 3.0 ATX Intel Motherboard with UEFI BIOS</p>
 					                <td>
-					                	<p class="oldPrice">$219.99</p>
-					                	<p class="newPrice"><a href="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/HP24WDBlack.php">$149.99</a>
-					                	<p class="savedPercent">Save 32%</p>
+					                	<p class="oldPrice">$709.99</p>
+					                	<p class="newPrice"><a href="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/asusWQHDMonitor.php">$489.99</a>
+					                	<p class="savedPercent">Save 31%</p>
 					                	<a href="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/HP24WDBlack.php">
 					                		<img src="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/images/hotDeals/monitorDeal.jpg" alt="Monitor deal">
 					                	</a>
-					                	<p class="description">GHP 24WD Black 23.6" 5ms Widescreen LED Backlight LCD Monitor 250 cd/m2 3,000,000:1</p>
+					                	<p class="description">ASUS PB278Q 27-Inch WQHD LED-lit PLS Professional Graphics Monitor </p>
 					                </td>
 					            </tr>
 					        <tbody>
