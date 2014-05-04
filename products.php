@@ -8,14 +8,17 @@
 				<? include ("localNav.php"); ?>
 
 				<section class="mainContent">
+					<section id="breadCrumbs">
+						<p><a href="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/products.php">Products</a></p>
+					</section>
 
 					<section class="featuredItem">
-						<h1>Featured Items</h1>
+						<h1>Products</h1>
 
 						<!----------------------- First Featured Item ---------------------------------->
 						<section>
 							<h2><a href="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/gamingKeyboards.php">Gaming Keyboards</a></h2>
-							<h3>Logitech G710+
+							<h3>Featured: Logitech G710+
 								<span class="newPrice">
 									<a href="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/logitechG710Plus.php">$129.99</a>
 								</span>
@@ -33,7 +36,7 @@
 						<!----------------------- Second Featured Item ---------------------------------->
 						<section>
 							<h2><a href="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/gamingMice.php">Gaming Mice</a></h2>
-							<h3>Logitech G600 Gaming Mouse 
+							<h3>Featured: Logitech G600 Gaming Mouse 
 								<span class="newPrice">
 									<a href="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/logitechG600Mouse.php">$14.99</a>
 								</span>
