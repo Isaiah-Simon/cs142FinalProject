@@ -3,8 +3,8 @@
 		<img src="images/logo/logo-quick-computing.png" alt="Quick computing logo">
 	</a>
 	<ul class="accountLinks">
+		<li><a href="register.php">Register</a></li>
 		<li><a href="login.php">Log in</a></li>
-		<li><a href="signUp">Sign up</a></li>
 	</ul>
 	<p class="headEmail"><span  class="bold">Email:</span> <a href="mailto:contact@quickcomputing.com">contact@quickcomputing.com</a></p>
 	<br>

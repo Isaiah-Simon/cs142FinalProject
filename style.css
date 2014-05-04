@@ -154,57 +154,6 @@ nav > ul > li{
 	margin-top: 20px;
 	width: 700px;
 	border-collapse:collapse;
-<<<<<<< HEAD
-}
-
-.carousel > img{
-	margin-left: 45px;
-}
-
-#content > section > section > table > tbody > tr > td > img{
-	margin-left: 20px;
-}
-
-.description{
-	font-size: 10pt;
-	margin: 0 auto;
-	margin-left: 10px;
-	margin-bottom: 20px;
-	margin-top: 10px;
-}
-
-.newPrice{
-	font-size: 20pt;
-	margin: 0 auto;
-	margin-left: 10px;
-	margin-bottom: 20px;
-	margin-top: 10px;
-}
-
-.newPrice > a{
-	color:#3e698c;
-	text-decoration: none;
-	font-weight: bold;
-}
-
-.oldPrice{
-	font-size: 11pt;
-	margin: 0 auto;
-	color: gray;
-	margin-bottom: -15px;
-	margin-left: 12px;
-	text-decoration: line-through;
-}
-
-.savedPercent{
-	font-size: 9pt;
-	margin: 0 auto;
-	color: #C1240B;
-	margin-left: 12px;
-	margin-top: -23px;
-}
-
-=======
 }
 
 .mainContent > img{
@@ -216,7 +165,7 @@ nav > ul > li{
 }
 
 .description{
-	font-size: 10pt;
+	font-size: 10.5pt;
 	margin: 0 auto;
 	margin-left: 10px;
 	margin-bottom: 20px;
@@ -252,9 +201,9 @@ nav > ul > li{
 	color: #C1240B;
 	margin-left: 12px;
 	margin-top: -23px;
+	margin-bottom: 15px;
 }
 
->>>>>>> origin/carousel
 
 #content > section > section > table > thead > tr > th.center{
 	font-size: 30pt;
@@ -273,8 +222,6 @@ nav > ul > li{
 	border-bottom: 1px solid black;
 	width: 33%;
 	padding: 10px;
-<<<<<<< HEAD
-=======
 }
 
 /* ===================  Featured Item Section  ==================================== */
@@ -286,10 +233,10 @@ nav > ul > li{
 .featuredItem > h1{
 	font-size: 30pt;
 	margin: 0;
+	margin-top: -15px;
 }
 
 .featuredItem > h3{
 	margin: 0;
 	margin-bottom: 20px;
->>>>>>> origin/carousel
 }

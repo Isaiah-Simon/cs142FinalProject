@@ -46,11 +46,11 @@
 
 							<span class="oldPrice">$69.99</span>
 
-							<span class="savedPercent">Saved 79%</span>
+							<span class="savedPercent">Save 79%</span>
 						</h3>
 						
 						<a href="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/LogitechG600Mouse.php">
-							<img src="images/carousel/gamingMouseCarousel.jpg" alt="G600 Gaming Mouse">
+							<img src="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/images/carousel/gamingMouseCarousel.jpg" alt="G600 Gaming Mouse">
 						</a>
 					</section>
 
@@ -58,7 +58,7 @@
 						<table>
 					        <thead>
 					            <tr>
-					                <th class="center" colspan="3"><img src="images/hotDeals/flameIcon.png">Hot Deals<img src="images/hotDeals/flameIcon.png"></th>
+					                <th class="center" colspan="3"><img src="images/hotDeals/flameIcon.png" alt="Hot deals flame icon">Hot Deals<img src="images/hotDeals/flameIcon.png"></th>
 					                <th></th>
 					                <th></th>
 					            </tr>
@@ -69,7 +69,7 @@
 					                <td>
 					                	<p class="oldPrice">$249.99</p>
 					                	<p class="newPrice"><a href="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/SAMSUNG840ProSeries256GBSSD.php">$189.99</p></a>
-					                	<p class="savedPercent">Saved 24%</p>
+					                	<p class="savedPercent">Save 24%</p>
 					                	<a href="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/SAMSUNG840ProSeries256GBSSD.php">
 					                		<img src="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/images/hotDeals/hardDriveDeal.jpg" alt="Hard drive deal">
 					                	</a>
@@ -78,7 +78,7 @@
 					                <td>
 					                	<p class="oldPrice">$164.99</p>
 					                	<p class="newPrice"><a href="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/GIGABYTEGA-Z87X-UD3H.php">$139.99</p></a>
-					                	<p class="savedPercent">Saved 15%</p>
+					                	<p class="savedPercent">Save 15%</p>
 					                	<a  href="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/GIGABYTEGA-Z87X-UD3H.php">
 					                		<img src="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/images/hotDeals/motherboardDeal.jpg" alt="Motherboard deal">
 					                	</a>
@@ -86,7 +86,7 @@
 					                <td>
 					                	<p class="oldPrice">$219.99</p>
 					                	<p class="newPrice"><a href="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/HP24WDBlack.php">$149.99</p></a>
-					                	<p class="savedPercent">Saved 32%</p>
+					                	<p class="savedPercent">Save 32%</p>
 					                	<a href="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/HP24WDBlack.php">
 					                		<img src="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/images/hotDeals/monitorDeal.jpg" alt="Monitor deal">
 					                	</a>
