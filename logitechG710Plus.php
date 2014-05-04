@@ -41,7 +41,7 @@
 
 					<section id="price">
 						<p class="oldPrice">$129.99</p>
-	                	<p class="newPrice"><a href="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/K70.php">$119.99</a>
+	                	<p class="newPrice"><a href="http://www.uvm.edu/~isimon/cs142/cs142FinalProject/logitechG710Plus.php">$119.99</a>
 	                	<p class="savedPercent">Save 13%</p>
 	                	<button class="addtoCartButton">Add to Cart</button>
 					</section>

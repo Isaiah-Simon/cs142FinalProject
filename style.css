@@ -656,6 +656,7 @@ padding-left: 5px;
 	margin-left: 26px;
 }
 
+/* ===================  ROCCAT Isku FX Section  ==================================== */
 
 #ROCCATIskuFX .mainContent{
 	margin: 0;
@@ -672,4 +673,36 @@ padding-left: 5px;
 	margin-left: 26px;
 }
 
+/* ===================  Corsair K70 Section  ==================================== */
 
+#K70 .mainContent{
+	margin: 0;
+	float:none;
+}
+
+#K70 #content{
+	margin-top: 40px
+}
+
+#K70 #breadCrumbs{
+	margin: 0;
+	margin-top: -30px;
+	margin-left: 26px;
+}
+
+/* ===================CM QuickFire Section  ==================================== */
+
+#QuickFire .mainContent{
+	margin: 0;
+	float:none;
+}
+
+#QuickFire #content{
+	margin-top: 40px
+}
+
+#QuickFire #breadCrumbs{
+	margin: 0;
+	margin-top: -30px;
+	margin-left: 26px;
+}
